@@ -20,3 +20,16 @@ do
 //Same letters, same length, different arrangement
 //Sort the letters alphabetically, if it matches its anagram
 
+//Examples of Anagrams:
+
+//    Listen → Silent
+//    Race → Care
+//    God → Dog
+//    Tea → Eat
+//    Cinema → Iceman
+
+//Anagrams with Phrases:
+
+//    A gentleman → Elegant man
+//    Clint Eastwood → Old west action
+//    Debit card → Bad credit
